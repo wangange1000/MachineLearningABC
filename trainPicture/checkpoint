@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\testTensorFlow\\trainPicture\\classifier.tfl"
+all_model_checkpoint_paths: "D:\\testTensorFlow\\trainPicture\\classifier.tfl"
